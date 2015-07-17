@@ -8,7 +8,9 @@ from sys import exit
 pygame.init()
 
 screen = pygame.display.set_mode((640, 480), 0, 32)
-
+##the second para:
+##FULLSCREEN
+##NOFRAME
 pygame.display.set_caption("Hello, World!")
  
 background = pygame.image.load(background_image_filename).convert()
