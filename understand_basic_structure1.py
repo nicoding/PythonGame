@@ -1,5 +1,5 @@
-background_image_filename = 'sushiplate.jpg'
-mouse_image_filename = 'a.png'
+background_image_filename = './img/understand_basic_structure_bg.jpg'
+mouse_image_filename = './img/understand_basic_structure_cursor.png'
 
 import pygame
 from pygame.locals import *
